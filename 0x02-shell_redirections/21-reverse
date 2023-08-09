@@ -1,2 +1,2 @@
 #!/bin/bash
-rev
+$ ./reverse_input.sh
